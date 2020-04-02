@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.exe
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.deps.json
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.runtimeconfig.json
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.dll
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.pdb
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.AssemblyInfo.cs
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.dll
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_4_Panasenko\CSharp\Lab_Rob_4_Panasenko\Lab_Rob_4_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_4_Panasenko.pdb
