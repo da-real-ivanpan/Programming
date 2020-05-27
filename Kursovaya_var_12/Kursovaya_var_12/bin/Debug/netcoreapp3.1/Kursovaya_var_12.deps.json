@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kursovaya_var_12/1.0.0": {
+        "runtime": {
+          "Kursovaya_var_12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kursovaya_var_12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
