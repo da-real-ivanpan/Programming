@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.exe
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.deps.json
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.runtimeconfig.json
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.dll
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\bin\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.pdb
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.AssemblyInfo.cs
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.dll
+C:\Users\Admin\Desktop\KPI\Sem_2\Programming\Lab_Rob_7_Panasenko\CSharp\Lab_Rob_7_Var_2_Panasenko\Lab_Rob_7_Var_2_Panasenko\obj\Debug\netcoreapp3.1\Lab_Rob_7_Var_2_Panasenko.pdb
